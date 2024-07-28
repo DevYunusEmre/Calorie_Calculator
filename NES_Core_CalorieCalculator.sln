@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NES_Core_CalorieCalculator.DataCore", "NES_Core_CalorieCalculator.DataCore\NES_Core_CalorieCalculator.DataCore.csproj", "{8839F61B-9037-4FA9-A75D-ABA9372C66EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NES_Core_CalorieCalculator.DAL", "NES_Core_CalorieCalculator.DAL\NES_Core_CalorieCalculator.DAL.csproj", "{F75403BE-3338-476E-AF3C-D5CBD63380AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NES_Core_CalorieCalculator.Service", "NES_Core_CalorieCalculator.Service\NES_Core_CalorieCalculator.Service.csproj", "{E2BDD586-E44D-4B95-A9D7-1A668B0353D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NES.WFA", "NES.WFA\NES.WFA.csproj", "{742C082E-3041-4929-8461-74403CE434CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8839F61B-9037-4FA9-A75D-ABA9372C66EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8839F61B-9037-4FA9-A75D-ABA9372C66EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8839F61B-9037-4FA9-A75D-ABA9372C66EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8839F61B-9037-4FA9-A75D-ABA9372C66EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75403BE-3338-476E-AF3C-D5CBD63380AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75403BE-3338-476E-AF3C-D5CBD63380AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75403BE-3338-476E-AF3C-D5CBD63380AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75403BE-3338-476E-AF3C-D5CBD63380AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BDD586-E44D-4B95-A9D7-1A668B0353D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BDD586-E44D-4B95-A9D7-1A668B0353D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BDD586-E44D-4B95-A9D7-1A668B0353D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BDD586-E44D-4B95-A9D7-1A668B0353D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742C082E-3041-4929-8461-74403CE434CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742C082E-3041-4929-8461-74403CE434CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742C082E-3041-4929-8461-74403CE434CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742C082E-3041-4929-8461-74403CE434CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78F6602-4763-489F-B55F-95AB1978CB94}
+	EndGlobalSection
+EndGlobal
